@@ -14,3 +14,6 @@ def method_2:
 
 def method_3:
     return 0
+
+def add_function_1:
+    return 0
