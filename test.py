@@ -23,3 +23,7 @@ def add_function_2:
 
 def add_function_3:
     return 0
+
+def add_function_a:
+    return 0
+
