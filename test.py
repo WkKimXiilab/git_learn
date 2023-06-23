@@ -20,3 +20,6 @@ def add_function_1:
 
 def add_function_2:
     return 0
+
+def add_function_3:
+    return 0
