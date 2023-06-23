@@ -27,3 +27,8 @@ def add_function_3:
 def add_function_a:
     return 0
 
+<<<<<<< Updated upstream
+=======
+def add_function_b:
+
+>>>>>>> Stashed changes
