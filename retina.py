@@ -4,3 +4,6 @@ def PreProcessor() -> float:
 
 def Inference() -> float:
     return 0
+
+def PostProcessor() -> float:
+    return 0
