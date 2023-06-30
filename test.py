@@ -1,4 +1,8 @@
-# init
+
+VERSION=1.0
+
+def __version__:
+    return VERSION
 
 Var1 = 0
 Var2 = 0
@@ -25,7 +29,7 @@ def add_function_3:
     return 0
 
 
+def add_function_b:
     return 0
 
-def add_function_b:
 
