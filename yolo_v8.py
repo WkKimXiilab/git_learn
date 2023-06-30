@@ -3,7 +3,7 @@
 def PreProcessor():
     return 0
 
-def Inference():
+def Inference() -> float:
     return 0
 
 def PostProcessor():
